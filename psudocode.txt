@@ -1,0 +1,15 @@
+/*Psudocode
+SCORE = ''; //Di isi berapapun nilainya 
+IF score  <= 80 AND <= 100
+  desc tampilkan nilai 'A'
+ESLSE IF score <= 65 AND >= 79
+  desc tampilkan nilai 'B'
+ELSE IF score <= 50 AND >= 64
+  desc tampilkan nilai 'C'
+ELSE IF score <=35 AND >=49
+  desc tampilkan nilai 'D'
+ELSE IF score ==0 AND >=34
+  desc tampilkan nilai 'C'
+  ELSE score <0 AND >100
+  tampilkan nilai 'D'
+/**
